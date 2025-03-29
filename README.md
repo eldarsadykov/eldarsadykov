@@ -4,6 +4,6 @@ I am a cross-platform software developer specialising in Swift and Web Audio. I 
 
 - [SwiftRNBO](https://github.com/eldarsadykov/SwiftRNBO)
 - [ELEX](https://github.com/eldarsadykov/elex)
-- [AudioRouteChangeMonitor for iOS](https://github.com/ceammc/AudioRouteChangeMonitor)
+- [AudioRouteChangeMonitor](https://github.com/ceammc/AudioRouteChangeMonitor) for iOS
 
 - 📫 How to reach me: info@eldarsadykov.com
