@@ -1,13 +1,24 @@
 ## Hi there 👋
 
-I am a software developer specialising in Vue.js and Web Audio API, as well as native app development for different platforms. 
-I am also passionate about digital audio, contemporary art and music. 
+I’m a software developer with a focus on **Vue.js**, the **Web Audio API**, and **cross-platform application development**.
+I’m passionate about **digital audio**, **contemporary art**, and **music**, and I love exploring the intersection between technology and creative expression.
 
-Please check out my public projects:
+### 🚀 Selected Public Projects
 
-- [SwiftRNBO](https://github.com/eldarsadykov/SwiftRNBO) - A demo project of using RNBO within a Swift app.
-- [ELEX](https://github.com/eldarsadykov/elex) - My current passion project. Reviving a multimedia version of a great interactive novel.
-- [AudioRouteChangeMonitor](https://github.com/eldarsadykov/AudioRouteChangeMonitor) - A tool for iOS audio developers.
-- [Group Expense Splitter](https://github.com/eldarsadykov/GroupExpenseSplitter) - My first C program 💪.
+* **SwiftRNBO** — Demo project showcasing the use of RNBO inside a Swift application.
+  [https://github.com/ceammc/SwiftRNBO](https://github.com/ceammc/SwiftRNBO)
 
-- 📫 How to reach me: esadykov.dev@gmail.com
+* **ELEX** — My current passion project: reviving a multimedia version of a remarkable interactive novel.
+  [https://github.com/eldarsadykov/elex](https://github.com/eldarsadykov/elex)
+
+* **AudioRouteChangeMonitor** — A utility tool for iOS audio developers.
+  [https://github.com/eldarsadykov/AudioRouteChangeMonitor](https://github.com/eldarsadykov/AudioRouteChangeMonitor)
+
+* **Group Expense Splitter** — My first C program 💪
+  [https://github.com/eldarsadykov/GroupExpenseSplitter](https://github.com/eldarsadykov/GroupExpenseSplitter)
+
+---
+
+📫 **Get in touch:** **[esadykov.dev@gmail.com](mailto:esadykov.dev@gmail.com)**
+
+Thanks for stopping by!
