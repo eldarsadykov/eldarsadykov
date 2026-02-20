@@ -14,7 +14,7 @@ I’m passionate about **digital audio**, **contemporary art**, and **music**, a
 * **AudioRouteChangeMonitor** — A utility tool for iOS audio developers.
   [https://github.com/eldarsadykov/AudioRouteChangeMonitor](https://github.com/eldarsadykov/AudioRouteChangeMonitor)
 
-* **Group Expense Splitter** — My first C program 💪
+* **Group Expense Splitter** — A command-line application written in C that helps split expenses fairly among a group of people.
   [https://github.com/eldarsadykov/GroupExpenseSplitter](https://github.com/eldarsadykov/GroupExpenseSplitter)
 
 ---
