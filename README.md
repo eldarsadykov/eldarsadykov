@@ -9,7 +9,7 @@ I’m passionate about **digital audio**, **contemporary art**, and **music**, a
   [https://github.com/ceammc/SwiftRNBO](https://github.com/ceammc/SwiftRNBO)
 
 * **ELEX** — My current passion project: reviving a multimedia version of a remarkable interactive novel.
-  [https://github.com/eldarsadykov/elex](https://github.com/eldarsadykov/lexikon-roman)
+  [https://github.com/eldarsadykov/lexikon-roman](https://github.com/eldarsadykov/lexikon-roman)
 
 * **AudioRouteChangeMonitor** — A utility tool for iOS audio developers.
   [https://github.com/eldarsadykov/AudioRouteChangeMonitor](https://github.com/eldarsadykov/AudioRouteChangeMonitor)
