@@ -5,18 +5,13 @@ I’m passionate about **digital audio**, **contemporary art**, and **music**, a
 
 ### 🚀 Selected Public Projects
 
-* **SwiftRNBO** — Demo project showcasing the use of RNBO inside a Swift application.
-  [https://github.com/ceammc/SwiftRNBO](https://github.com/ceammc/SwiftRNBO)
+* [**SwiftRNBO**](https://github.com/ceammc/SwiftRNBO) — Demo project showcasing the use of RNBO inside a Swift application.
 
-* **ELEX** — My current passion project: reviving a multimedia version of a remarkable interactive novel.
-  [https://github.com/eldarsadykov/lexikon-roman](https://github.com/eldarsadykov/lexikon-roman)
+* [**ELEX**](https://github.com/eldarsadykov/lexikon-roman) — My current passion project: reviving a multimedia version of a remarkable interactive novel.
 
-* **AudioRouteChangeMonitor** — A utility tool for iOS audio developers.
-  [https://github.com/eldarsadykov/AudioRouteChangeMonitor](https://github.com/eldarsadykov/AudioRouteChangeMonitor)
+* [**VectorANS**](https://github.com/eldarsadykov/VectorANS) — SVG-to-WAV converter inspired by ANS synthesizer and written in C++.
 
-* **VectorANS** — SVG-to-WAV converter inspired by ANS synthesizer.
-  [https://github.com/eldarsadykov/VectorANS](https://github.com/eldarsadykov/VectorANS)
-
+* [**AudioRouteChangeMonitor**](https://github.com/eldarsadykov/AudioRouteChangeMonitor) — A utility tool for iOS audio developers.
 ---
 
 📫 **Get in touch:** **[esadykov.dev@gmail.com](mailto:esadykov.dev@gmail.com)**
