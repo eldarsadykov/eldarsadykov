@@ -7,7 +7,7 @@ I’m passionate about **digital audio**, **contemporary art**, and **music**, a
 
 * [**SwiftRNBO**](https://github.com/ceammc/SwiftRNBO) — Demo project showcasing the use of RNBO inside a Swift application.
 
-* [**ELEX**](https://github.com/eldarsadykov/lexikon-roman) — My current passion project: reviving a multimedia version of a remarkable interactive novel.
+* [**ELEX**](https://github.com/eldarsadykov/lexikon-roman) — Reviving a multimedia version of a remarkable interactive novel.
 
 * [**VectorANS**](https://github.com/eldarsadykov/VectorANS) — SVG-to-WAV converter inspired by ANS synthesizer and written in C++.
 
